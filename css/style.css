@@ -1840,3 +1840,11 @@ body.offcanvas .colorlib-nav-toggle {
 .footerDisplay {
   color: #000;
 }
+
+.homeOpa {
+  font-weight: bolder !important;
+}
+
+.imgOpa {
+  opacity: 80% !important;
+}
